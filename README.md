@@ -1,4 +1,3 @@
-### Olá! Eu sou Vitor Ipiranga ✌️ 
 
 
 <!--
