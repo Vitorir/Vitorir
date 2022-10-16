@@ -1,6 +1,6 @@
 
 ### Olá! Eu sou Vitor Ipiranga ✌️ 
-I'm a novice programmer in the field since the end of 2021, focusing on back-end and data analysis with Java and Python. Hoping to build projects and learn everyday. 
+I'm a novice programmer in the field since the end of 2021, focusing on back-end/web-dev with Java and Ruby on Rails. Hoping to build projects and learn everyday. 
 
 Perfil de repositórios da universidade.
 
