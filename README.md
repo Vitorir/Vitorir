@@ -2,8 +2,6 @@
 ### Olá! Eu sou Vitor Ipiranga ✌️ 
 I'm a novice programmer in the field since the end of 2021, focusing on web-dev with React and SpringBoot. Hoping to build projects and learn everyday. 
 
-Perfil de repositórios da universidade.
-
 ### Tecnologias 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
