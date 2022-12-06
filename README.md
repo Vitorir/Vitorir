@@ -1,8 +1,8 @@
 
-### Olá! Eu sou Vitor Ipiranga ✌️ 
+### Hi! I am Vitor Ipiranga ✌️ 
 I'm a novice programmer in the field since the end of 2021, focusing on web-dev with the MERN stack. Hoping to build projects and learn everyday. 
 
-### Tecnologias 
+### Technologies 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
