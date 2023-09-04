@@ -1,6 +1,6 @@
 
 ### Hi! I am Vitor Ipiranga ✌️ 
-I'm a novice programmer in the field since the end of 2021, focusing on web-dev with the MERN stack. Hoping to build projects and learn everyday. 
+I'm a novice programmer focusing on web-dev with the MERN stack. Hoping to build projects and learn everyday. 
 
 ### Technologies 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
