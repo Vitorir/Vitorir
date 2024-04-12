@@ -1,6 +1,6 @@
 
 ### Hi! I am Vitor Ipiranga ✌️ 
-I'm a novice programmer focusing on web-dev with the MERN stack. Hoping to build projects and learn everyday. 
+Currently developing systems with NextJS and React on Rails. Hoping to build projects and learn everyday!
 
 ### Technologies 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -8,8 +8,6 @@ I'm a novice programmer focusing on web-dev with the MERN stack. Hoping to build
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 
