@@ -1,6 +1,6 @@
 
 ### Hi! I am Vitor Ipiranga ✌️ 
-Currently developing systems with NextJS and React on Rails. Hoping to build projects and learn everyday!
+Currently developing systems with NextJS and Ruby on Rails. Hoping to build projects and learn everyday!
 
 ### Technologies 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
