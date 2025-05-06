@@ -1,6 +1,6 @@
 
 ### Hi! I am Vitor Ipiranga ✌️ 
-Currently developing systems with NextJS and Ruby on Rails. Hoping to build projects and learn everyday!
+I'm a Fullcycle Developer focusing on DevOps practices. My focus is mainly in Docker, Kubernetes, GitOps, Pipelines, Observability and Cloud.
 
 
 ### Technologies 
