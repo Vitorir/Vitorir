@@ -1,6 +1,6 @@
 
 ### Hi! I am Vitor Ipiranga ✌️ 
-I'm a Fullcycle Developer focusing on DevOps practices. My focus is mainly in Docker, Kubernetes, GitOps, Pipelines, Observability and Cloud.
+I'm a Fullcycle Developer focusing on DevOps practices. My focus is mainly on Docker, Kubernetes, GitOps, Pipelines, Observability and Cloud.
 
 
 ### Technologies 
